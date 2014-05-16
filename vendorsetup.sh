@@ -22,4 +22,4 @@
 
 add_lunch_combo aosp_vs980-userdebug
 add_lunch_combo full_vs980-userdebug
-add_lunch_combo omni_vs980-userdebug
+add_lunch_combo du_vs980-userdebug
