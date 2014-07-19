@@ -34,7 +34,3 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     nfc_nci.g2 \
     NfcNci
-
-# Boot animation
-PRODUCT_COPY_FILES += \
-    vendor/du/bootanimations/bootanimation_1080_1920.zip:system/media/bootanimation.zip
